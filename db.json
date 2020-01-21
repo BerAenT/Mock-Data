@@ -16,27 +16,7 @@
    "cities":[ 
       { 
          "countryId":1,
-         "list":[ 
-            { 
-               "id":15,
-               "name":"burdur"
-            },
-            { 
-               "id":26,
-               "name":"eskişehir"
-            },
-            { 
-               "id":18,
-               "name":"çankiri"
-            },
-            { 
-               "id":80,
-               "name":"osmaniye"
-            },
-            { 
-               "id":41,
-               "name":"kocaeli"
-            },
+         "list":[
             { 
                "id":27,
                "name":"gaziantep"
@@ -290,56 +270,12 @@
                "name":"samsun"
             },
             { 
-               "id":19,
-               "name":"çorum"
-            },
-            { 
-               "id":65,
-               "name":"van"
-            },
-            { 
-               "id":14,
-               "name":"bolu"
-            },
-            { 
-               "id":43,
-               "name":"kütahya"
-            },
-            { 
                "id":11,
                "name":"bilecik"
             },
             { 
                "id":34,
                "name":"istanbul"
-            },
-            { 
-               "id":79,
-               "name":"kilis"
-            },
-            { 
-               "id":62,
-               "name":"tunceli"
-            },
-            { 
-               "id":12,
-               "name":"bingöl"
-            },
-            { 
-               "id":22,
-               "name":"edirne"
-            },
-            { 
-               "id":71,
-               "name":"kirikkale"
-            },
-            { 
-               "id":70,
-               "name":"karaman"
-            },
-            { 
-               "id":35,
-               "name":"izmir"
             }
          ]
       },
