@@ -15,7 +15,7 @@
    ],
    "cities":[ 
       { 
-         "countryId":1,
+         "id":1,
          "list":[
             { 
                "id":45,
@@ -92,7 +92,7 @@
          ]
       },
       { 
-         "countryId":2,
+         "id":2,
          "list":[ 
             { 
                "id":0,
@@ -109,7 +109,7 @@
          ]
       },
       { 
-         "countryId":3,
+         "id":3,
          "list":[ 
             { 
                "id":0,
@@ -128,7 +128,7 @@
    ],
    "towns":[ 
       { 
-         "cityId":34,
+         "id":34,
          "list":[ 
             { 
                "id":1,
